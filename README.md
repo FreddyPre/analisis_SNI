@@ -43,15 +43,15 @@ OUTPUTS:
 #### Requisitos de software:
 | Requisito | Version  |
 |:---------:|:--------:|
-| [R](https://www.r-project.org/) | 4.3.2 |
+| [R](https://www.r-project.org/) | 4.3.1 |
 
 #### paquetes R requeridos:
 
 ```
 pacman: 0.5.1
-vroom: 1.6.5
-dplyr: 1.1.4
-ggplot2: 3.5.0
+vroom: 1.6.4
+dplyr: 1.1.3
+ggplot2: 3.4.4
 ```
 
 ---
